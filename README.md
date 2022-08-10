@@ -1,4 +1,5 @@
 # Configure Offline Build Dependencies - Android Studio
+To build your project without a network connection, follow the steps below to configure Android Studio to use offline versions of the Android Gradle Plugin and Google Maven dependencies.
 1. Download the offline components and unzip it's contents into the following Directory:
     * On Windows: ___%USER_HOME%/.android/manual-offline-m2/___
     * On macOS and Linux: ___~/.android/manual-offline-m2/___  
